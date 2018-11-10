@@ -1,0 +1,13 @@
+F:\Data\VS\LuaDemo\LuaDemo\bin\Debug\LuaDemo.exe.config
+F:\Data\VS\LuaDemo\LuaDemo\bin\Debug\LuaDemo.exe
+F:\Data\VS\LuaDemo\LuaDemo\bin\Debug\LuaDemo.pdb
+F:\Data\VS\LuaDemo\LuaDemo\bin\Debug\lua51.dll
+F:\Data\VS\LuaDemo\LuaDemo\bin\Debug\LuaInterface.dll
+F:\Data\VS\LuaDemo\LuaDemo\obj\Debug\LuaDemo.csprojAssemblyReference.cache
+F:\Data\VS\LuaDemo\LuaDemo\obj\Debug\LuaDemo.Properties.Resources.resources
+F:\Data\VS\LuaDemo\LuaDemo\obj\Debug\LuaDemo.csproj.GenerateResource.cache
+F:\Data\VS\LuaDemo\LuaDemo\obj\Debug\LuaDemo.csproj.CoreCompileInputs.cache
+F:\Data\VS\LuaDemo\LuaDemo\obj\Debug\LuaDemo.csproj.CopyComplete
+F:\Data\VS\LuaDemo\LuaDemo\obj\Debug\LuaDemo.exe
+F:\Data\VS\LuaDemo\LuaDemo\obj\Debug\LuaDemo.pdb
+F:\Data\VS\LuaDemo\LuaDemo\obj\Debug\LuaDemo.AIControllerTest.resources
